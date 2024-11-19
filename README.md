@@ -33,4 +33,4 @@ Check out the live demo of the bookmarks manager at [this link](https://bookmark
 
 ## Credits
 
-This project was built by [neiljay](https://neiljay.com) using the [Next.js](https://nextjs.org/) template.
+This project was built by [neiljay](https://neiljay.com) using the [Next.js](https://nextjs.org/).
